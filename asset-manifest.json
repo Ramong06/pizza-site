@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/pizza-site/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/pizza-site/static/js/main.aae9d5cb.chunk.js",
+    "main.js.map": "/pizza-site/static/js/main.aae9d5cb.chunk.js.map",
+    "runtime-main.js": "/pizza-site/static/js/runtime-main.c29c8706.js",
+    "runtime-main.js.map": "/pizza-site/static/js/runtime-main.c29c8706.js.map",
+    "static/js/2.3e703e2b.chunk.js": "/pizza-site/static/js/2.3e703e2b.chunk.js",
+    "static/js/2.3e703e2b.chunk.js.map": "/pizza-site/static/js/2.3e703e2b.chunk.js.map",
+    "static/js/3.dd5792e1.chunk.js": "/pizza-site/static/js/3.dd5792e1.chunk.js",
+    "static/js/3.dd5792e1.chunk.js.map": "/pizza-site/static/js/3.dd5792e1.chunk.js.map",
+    "index.html": "/pizza-site/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/pizza-site/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.3e703e2b.chunk.js.LICENSE.txt": "/pizza-site/static/js/2.3e703e2b.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/pizza-site/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c29c8706.js",
+    "static/js/2.3e703e2b.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.aae9d5cb.chunk.js"
+  ]
+}
