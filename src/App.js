@@ -5,6 +5,7 @@ import Hero from './components/Hero';
 import Products from './components/Products';
 import { productData, appData, sweetData } from './components/Products/data';
 import Feature from './components/Feature';
+import Footer from './components/Footer';
 
 const App = () => {
   return (
@@ -15,6 +16,7 @@ const App = () => {
       <Feature />
       <Products heading='Choose An Appetizer' data={appData} />
       <Products heading='Choose An Appetizer' data={sweetData} />
+      <Footer />
     </Router>
   )
 }
