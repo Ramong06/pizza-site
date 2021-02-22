@@ -15,7 +15,7 @@ const App = () => {
       <Products heading='Choose Your Favorite' data={productData} />
       <Feature />
       <Products heading='Choose An Appetizer' data={appData} />
-      <Products heading='Choose An Appetizer' data={sweetData} />
+      <Products heading='Choose A Dessert' data={sweetData} />
       <Footer />
     </Router>
   )
